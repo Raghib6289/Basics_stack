@@ -1,6 +1,6 @@
 ﻿# week1
 # pythonbasics
-# pythonbasics
+
 # pythonbasics
 # Basics_stack
 # Basics_stack
