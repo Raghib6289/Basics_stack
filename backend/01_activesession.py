@@ -1,5 +1,6 @@
 active_sessions = []
 
+
 def start_session(user_id):
     session_id = f"session_{user_id}_{hash(user_id)}" # Simplified session ID generation
     if session_id not in active_sessions:
