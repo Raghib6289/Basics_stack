@@ -14,6 +14,7 @@ print(set_with_duplicates) # Output: {1, 2, 3, 4}
 # Creating a set from a list
 my_list = [1, 2, 2, 3, 4, 4, 5]
 list_to_set = set(my_list)
+
 print(list_to_set) # Output: {1, 2, 3, 4, 5}
 
 # Creating a set from a string (each character becomes an element)
