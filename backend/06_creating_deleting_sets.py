@@ -18,6 +18,7 @@ print(colors_set) # Output: {'red', 'blue', 'yellow', 'purple', 'orange'} (order
 colors_set.discard("cyan") # 'cyan' is not in the set, no error occurs
 print(colors_set) # Output: {'red', 'blue', 'yellow', 'purple', 'orange'} (order may vary)
 
+
 # Removing and returning an arbitrary element using .pop()
 # Note: Since sets are unordered, the element removed is not predictable.
 removed_color = colors_set.pop()
