@@ -7,6 +7,7 @@
 # We might need to perform operations like finding common tags between articles or getting a list of all unique tags used site-wide.
 # Best Data Structure: Set (for individual articles) and potentially a Set (for site-wide unique tags)
 
+
 # For individual articles: A set is perfect for storing the tags associated with a single article because it automatically handles uniqueness.
 
 # For site-wide unique tags: A set can be used to aggregate all tags and find the unique one
