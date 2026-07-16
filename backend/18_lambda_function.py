@@ -14,7 +14,6 @@ add_ten = lambda x: x + 10
 print(add_ten(5))   # Output: 15
 print(add_ten(20))  # Output: 30
 
-
 multiply = lambda x, y: x * y
 
 print(multiply(4, 6)) # Output: 24
