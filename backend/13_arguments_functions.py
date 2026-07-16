@@ -10,7 +10,6 @@ describe_pet("dog", "Buddy")
 # Calling with keyword arguments (order does not matter)
 describe_pet(pet_name="Lucy", animal_type="cat")
 
-
 # Default Arguments Example:
 
 def greet_user(name, greeting="Hello"):
