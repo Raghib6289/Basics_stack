@@ -42,6 +42,7 @@ class BankAccount:
     def get_balance(self):
         return self.__balance
 
+    
     # A method to demonstrate accessing a private attribute internally
     def _internal_check_balance(self):
         print(f"Internal check: Current balance is ${self.__balance:.2f}")
