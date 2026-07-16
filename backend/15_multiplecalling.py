@@ -8,6 +8,7 @@ def get_rectangle_properties(length, width):
     return area, perimeter
 
 # Calling the function and unpacking the returned tuple
+
 rect_area, rect_perimeter = get_rectangle_properties(8, 4)
 
 print(f"Area: {rect_area}")
