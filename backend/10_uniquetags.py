@@ -15,7 +15,6 @@
 # Tags for Article 1
 article1_tags = {"python", "backend", "webdev", "programming", "python"} # Duplicate 'python' is ignored
 
-
 # Tags for Article 2
 article2_tags = {"javascript", "frontend", "webdev", "react"}
 
